@@ -28,6 +28,13 @@ By interfacing directly with FlightGear's internal property tree and native auto
 
 1. **Property Tree Integration:** Reads real-time flight telemetry (airspeed, heading, ground offset, pitch) straight from FlightGear.
 2. **Control Corrections:** Computes steering inputs to maintain alignment during acceleration.
+
+---
+
+## 📜 License & Contributing
+
+* **License:** This project is licensed under the [MIT License](LICENSE).
+* **Contributing:** Want to help improve runway alignment or flight stability? Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started!
 3. **Phase Execution:** Triggers automated pitch-up once rotation velocity is reached, followed by initial altitude transition.
 
 ---
